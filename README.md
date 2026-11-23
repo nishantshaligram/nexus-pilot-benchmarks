@@ -1,8 +1,15 @@
 # NexusPilot Benchmarks: Cortex & Fleet Performance Matrix
 
 Comprehensive empirical benchmarking harness and competitive leaderboard for the **NexusPilot** AI agent suite:
-- **NexusPilot Cortex**: Cognitive Telemetry, Persistent Memory Governor (NexusMem), and Adaptive Context Window Compaction.
-- **NexusPilot Fleet**: Distributed Swarm Orchestration, Zero-Collision Worktree Multiplexing, DAG Scheduling, and Two-Key Triad Consensus.
+
+## 🌐 The NexusPilot Autonomous Agent Suite
+
+| Component | Role | GitHub Repository | Description |
+| :--- | :--- | :--- | :--- |
+| 🖥️ **NexusPilot Desktop** | **The Hands** | [`nishantshaligram/NexusPilot`](https://github.com/nishantshaligram/NexusPilot) | Universal Windows UI Automation, dual-modal perception, mouse actuation & foreground visual HUD. |
+| 🧠 **NexusPilot Cortex** | **The Brain** | [`nishantshaligram/nexus-pilot-cortex`](https://github.com/nishantshaligram/nexus-pilot-cortex) | Cognitive telemetry badging, persistent long-term memory (NexusMem), and adaptive context compression. |
+| ⚡ **NexusPilot Fleet** | **The Grid** | [`nishantshaligram/nexus-pilot-fleet`](https://github.com/nishantshaligram/nexus-pilot-fleet) | Distributed multi-agent swarm orchestrator, zero-collision Git worktree multiplexing, DAG scheduling & Two-Key consensus. |
+| 📊 **NexusPilot Benchmarks** | **Validation** | [`nishantshaligram/nexus-pilot-benchmarks`](https://github.com/nishantshaligram/nexus-pilot-benchmarks) | Reproducible empirical benchmark harness and competitive leaderboard against industry baselines. |
 
 ---
 
