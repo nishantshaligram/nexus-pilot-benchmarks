@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+reports/benchmark_matrix_results.json
+fixtures/logs/*.log
+.fleet/
+data/
+*.db
